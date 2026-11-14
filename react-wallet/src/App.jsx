@@ -220,7 +220,7 @@ export default function App() {
 
     const expected = normalized(payload?.expectedAddress);
 
-    if (
+    if ( 
 
       !selected ||
 
